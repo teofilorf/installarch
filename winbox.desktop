@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Exec=wine /home/teofilo/Dropbox/bin/winbox.exe 
+Icon=/home/teofilo/Dropbox/bin/winbox.png
+Terminal=false
+Type=Application
+Categories=Wine;
+StartupNotify=true
+Name=Winbox
+GenericName=Winbox
+Comment=Winbox
