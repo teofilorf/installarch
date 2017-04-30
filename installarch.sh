@@ -1,7 +1,8 @@
 #!/bin/bash
 
 #instala pacotes
-yaourt --noconfirm -a -Syu google-chrome wine virtualbox vagrant yakuake mc rdesktop nmap sublime-text dropbox lib32-openssl gns3-gui gns3-server iouyap gns3-launcher-icons
+yaourt --noconfirm -a -Syu google-chrome wine virtualbox vagrant yakuake mc rdesktop nmap sublime-text dropbox lib32-openssl gns3-gui gns3-server iouyap gns3-launcher-icons plasma5-applets-network-monitor plasma5-applets-resources-monitor-git
+
 
 #configura
 
