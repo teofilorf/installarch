@@ -1,4 +1,4 @@
-yaourt --noconfirm -S google-chrome wine vboxwrapper virtualbox-guest-iso virtualbox vagrant mc rdesktop nmap sublime-text dropbox lib32-openssl iouyap dynamips gns3-gui gns3-server  gns3-launcher-icons
+yaourt --noconfirm -S google-chrome wine virtualbox-bin vagrant mc rdesktop nmap sublime-text dropbox lib32-openssl iouyap dynamips gns3-gui gns3-server  gns3-launcher-icons
 
 sudo cp winbox.desktop /usr/share/applications/
 ln -s /home/$USER/Dropbox/bin /home/$USER/
